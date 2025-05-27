@@ -69,6 +69,16 @@
 </div>
 
 ---
+## 📊 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragulbalaji&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulbalaji&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ragulbalaji&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
