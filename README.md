@@ -6,28 +6,31 @@
 
 ---
 
-## 🔥 **[ SYSTEM PROFILE ACCESSED ]** 🔥
+## 🔥 **[ SYSTEM PROFILE ACCESSED ]** 
 
 ```bash
+
 ┌─[ragul@cyberspace]─[~/profile]
-└──╼ cat system_info.txt
+└──╼ whoami
 
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 DIGITAL ARCHITECT 🚀                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME         │ Ragul Balaji                                 ║
-║  DESIGNATION  │ CS Student & Tech Innovator                  ║
-║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
-║  INSTITUTE    │ Coimbatore Institute of Technology           ║
-║  MISSION      │ Building the Future, One Code at a Time      ║
-║  STATUS       │ ONLINE & READY TO HACK THE WORLD             ║
-╚══════════════════════════════════════════════════════════════╝
+> Accessing Matrix... [████████████████████] 100%
+> User Authenticated: ragulbalajii.vercel.app
 
-> Initializing cybersecurity protocols...     [✓]
-> Loading AI algorithms...                   [✓]
-> Blockchain networks synchronized...        [✓]
-> Development environment active...          [✓]
-> Ready for innovation...                    [✓]
+          ╔══════════════════════════════════════════════════════════════╗
+          ║                    🚀 DIGITAL ARCHITECT 🚀                   ║
+          ╠══════════════════════════════════════════════════════════════╣
+          ║  NAME         │ Ragul Balaji                                 ║
+          ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
+          ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
+          ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
+          ║  STATUS       │ ONLINE & Hacking the Universe                ║
+          ╚══════════════════════════════════════════════════════════════╝
+
+> Initializing cybersecurity protocols... ██████████ 100% [✓]
+> Loading AI algorithms...                █████████ 90%   [✓]
+> Blockchain networks synchronized...     ████████ 80%    [✓]
+> Development environment active...       █████████ 90%   [✓]
+> Ready for innovation...                 ██████████ 100% [✓] 
 ```
 
 
