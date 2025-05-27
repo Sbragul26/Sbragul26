@@ -4,36 +4,95 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;AI+%7C+Cybersecurity+%7C+Blockchain+Explorer;Python+%7C+C%2FC%2B%2B+%7C+SQL+Developer;Always+learning%2C+always+innovating!" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Hacker" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-## 🚀 About Me
+<div align="center">
+
+```ascii
+██████╗  █████╗  ██████╗ ██╗   ██╗██╗         ██████╗  █████╗ ██╗      █████╗      ██╗██╗
+██╔══██╗██╔══██╗██╔════╝ ██║   ██║██║         ██╔══██╗██╔══██╗██║     ██╔══██╗     ██║██║
+██████╔╝███████║██║  ███╗██║   ██║██║         ██████╔╝███████║██║     ███████║     ██║██║
+██╔══██╗██╔══██║██║   ██║██║   ██║██║         ██╔══██╗██╔══██║██║     ██╔══██║██   ██║██║
+██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████╗    ██████╔╝██║  ██║███████╗██║  ██║╚█████╔╝██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
+```
+
+</div>
+
+## 💀 SYSTEM INFILTRATION: About Me
+
+<div align="center">
+
+```bash
+┌─[ragul@hackermode]─[~/profile]
+└──╼ $ whoami && cat personal_info.json
+```
+
+</div>
+
+```json
+{
+  "user": {
+    "handle": "Ragul Balaji",
+    "status": "ACTIVE_LEARNER",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "institution": "Coimbatore Institute of Technology",
+    "access_level": "Student",
+    "specialization": {
+      "primary": ["Artificial Intelligence", "Cybersecurity", "Blockchain"],
+      "languages": ["Python", "C", "C++", "SQL"],
+      "current_exploit": ["Linux Systems", "React.js"]
+    },
+    "mission": "Transforming curiosity into code, learning into leadership",
+    "uptime": "24/7 Learning Mode",
+    "last_seen": "Debugging life, one line at a time..."
+  }
+}
+```
+
+<div align="center">
+
+```bash
+┌─[ragul@terminal]─[~/current_session]
+└──╼ $ ./initialize_hacker_mode.sh
+
+[✓] Loading AI algorithms...
+[✓] Scanning cybersecurity protocols...
+[✓] Blockchain networks synchronized...
+[✓] React components compiled...
+[✓] Linux environment optimized...
+
+>>> SYSTEM READY. HACK THE PLANET! <<<
+```
+
+</div>
 
 ```python
-class RagulBalaji:
-    def __init__(self):
-        self.name = "Ragul Balaji"
-        self.role = "Computer Science Student & Tech Enthusiast"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.education = "Coimbatore Institute of Technology"
-        self.current_focus = ["AI & Machine Learning", "Cybersecurity", "Blockchain"]
-        self.languages = ["Python", "C", "C++", "SQL"]
-        self.exploring = ["Linux Systems", "React Development"]
-        self.motto = "Learning today, leading tomorrow!"
-    
-    def get_current_status(self):
-        return {
-            "🎓": "Studying Computer Science at CIT",
-            "🤖": "Diving deep into AI & ML algorithms",
-            "🔐": "Mastering cybersecurity fundamentals",
-            "⛓️": "Exploring blockchain technology",
-            "💻": "Building projects with Python & React"
-        }
-    
-    def say_hello(self):
-        print("Thanks for visiting! Let's connect and build the future together!")
+#!/usr/bin/env python3
+# Ragul's Digital Signature
 
-ragul = RagulBalaji()
-ragul.say_hello()
+class HackerMode:
+    def __init__(self):
+        self.identity = "Ragul Balaji"
+        self.mindset = "Ethical_Hacker_In_Training"
+        self.arsenal = {
+            "languages": ["Python", "C", "C++", "SQL"],
+            "domains": ["AI/ML", "Cybersecurity", "Blockchain"],
+            "tools": ["Linux", "React", "Terminal"]
+        }
+        self.philosophy = "Code with purpose, hack with ethics"
+    
+    def execute_mission(self):
+        while True:
+            learn()
+            code()
+            secure()
+            innovate()
+            sleep(False)  # Sleep is for the weak! 😈
+
+# Initialize the matrix
+hacker = HackerMode()
+hacker.execute_mission()
 ```
 
 ## 🎓 Academic Journey
