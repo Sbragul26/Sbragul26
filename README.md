@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;AI+%7C+Cybersecurity+%7C+Blockchain+Explorer;Python+%7C+C%2FC%2B%2B+%7C+SQL+Developer;Always+learning%2C+always+innovating!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESSING+MAINFRAME...;IDENTITY%3A+RAGUL+BALAJI;STATUS%3A+CYBERSECURITY+EXPLORER;MISSION%3A+INNOVATE+%7C+SECURE+%7C+BUILD;CONNECTING+TO+THE+MATRIX..." alt="Matrix Typing SVG" />
-</div>
-
 ---
 
 ## 🔥 **[ SYSTEM PROFILE ACCESSED ]** 🔥
@@ -23,8 +19,8 @@
 ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
 ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
 ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
-║  MISSION      │ Building the Future, One Code at a Time     ║
-║  STATUS       │ ONLINE & READY TO HACK THE WORLD            ║
+║  MISSION      │ Building the Future, One Code at a Time      ║
+║  STATUS       │ ONLINE & READY TO HACK THE WORLD             ║
 ╚══════════════════════════════════════════════════════════════╝
 
 > Initializing cybersecurity protocols...     [✓]
@@ -40,10 +36,13 @@
 <div align="center">
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Technologies & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,7 +51,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Specialized Areas
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google-ai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 
