@@ -80,6 +80,61 @@
 
 ---
 
+## 📊 GitHub Statistics - Design Option 1 (Matrix Theme)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ragulbalaji&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=15&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulbalaji&layout=compact&langs_count=10&theme=chartreuse-dark&border_radius=15&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=chartreuse-dark&border_radius=15&border=00ff41&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragulbalaji&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_radius=15" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics - Design Option 2 (Neon Purple)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragulbalaji&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulbalaji&layout=donut&langs_count=6&theme=synthwave&border_radius=20&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=synthwave-84&border_radius=20&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📊 GitHub Statistics - Design Option 3 (Ocean Blue)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragulbalaji&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&border_radius=12&border_color=1e90ff&bg_color=0f1419&title_color=1e90ff&icon_color=00bfff&text_color=ffffff&custom_title=⚡%20Ragul's%20GitHub%20Analytics" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulbalaji&layout=compact&langs_count=8&theme=ocean_dark&border_radius=12&border_color=1e90ff&bg_color=0f1419&title_color=1e90ff&text_color=ffffff" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=ocean-dark&border_radius=12&border=1e90ff&background=0f1419" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📊 GitHub Statistics - Design Option 4 (Minimalist Cards)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragulbalaji&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=8&border_color=30363d&bg_color=00000000&title_color=f0f6fc&icon_color=7c3aed&text_color=e6edf3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragulbalaji&layout=compact&langs_count=8&theme=transparent&border_radius=8&border_color=30363d&bg_color=00000000&title_color=f0f6fc&text_color=e6edf3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=transparent&border_radius=8&border=30363d&background=00000000&stroke=7c3aed&ring=7c3aed&fire=f97316&currStreakLabel=f0f6fc" alt="GitHub Streak" />
+</p>
+
+---
+
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/ragulbalaji">Ragul Balaji</a> with ❤️</h3>
   <p><em>Happy Coding! 🚀</em></p>
