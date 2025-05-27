@@ -13,18 +13,15 @@
 ┌─[ragul@cyberspace]─[~/profile]
 └──╼ whoami
 
-> Accessing Matrix... [████████████████████] 100%
-> User Authenticated: ragulbalajii.vercel.app
-
-          ╔══════════════════════════════════════════════════════════════╗
-          ║                    🚀 DIGITAL ARCHITECT 🚀                   ║
-          ╠══════════════════════════════════════════════════════════════╣
-          ║  NAME         │ Ragul Balaji                                 ║
-          ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
-          ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
-          ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
-          ║  STATUS       │ ONLINE & Hacking the Universe                ║
-          ╚══════════════════════════════════════════════════════════════╝
+                  ╔══════════════════════════════════════════════════════════════╗
+                  ║                    🚀 DIGITAL ARCHITECT 🚀                   ║
+                  ╠══════════════════════════════════════════════════════════════╣
+                  ║  NAME         │ Ragul Balaji                                 ║
+                  ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
+                  ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
+                  ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
+                  ║  STATUS       │ ONLINE & Hacking the Universe                ║
+                  ╚══════════════════════════════════════════════════════════════╝
 
 > Initializing cybersecurity protocols... ██████████ 100% [✓]
 > Loading AI algorithms...                █████████ 90%   [✓]
