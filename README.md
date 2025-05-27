@@ -3,35 +3,37 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;AI+%7C+Cybersecurity+%7C+Blockchain+Explorer;Python+%7C+C%2FC%2B%2B+%7C+SQL+Developer;Always+learning%2C+always+innovating!" alt="Typing SVG" />
 </div>
-## 🚀 About Me
 
-```python
-class RagulBalaji:
-    def __init__(self):
-        self.name = "Ragul Balaji"
-        self.role = "Computer Science Student & Tech Enthusiast"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.education = "Coimbatore Institute of Technology"
-        self.current_focus = ["AI & Machine Learning", "Cybersecurity", "Blockchain"]
-        self.languages = ["Python", "C", "C++", "SQL"]
-        self.exploring = ["Linux Systems", "React Development"]
-        self.motto = "Learning today, leading tomorrow!"
-    
-    def get_current_status(self):
-        return {
-            "🎓": "Studying Computer Science at CIT",
-            "🤖": "Diving deep into AI & ML algorithms",
-            "🔐": "Mastering cybersecurity fundamentals",
-            "⛓️": "Exploring blockchain technology",
-            "💻": "Building projects with Python & React"
-        }
-    
-    def say_hello(self):
-        print("Thanks for visiting! Let's connect and build the future together!")
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESSING+MAINFRAME...;IDENTITY%3A+RAGUL+BALAJI;STATUS%3A+CYBERSECURITY+EXPLORER;MISSION%3A+INNOVATE+%7C+SECURE+%7C+BUILD;CONNECTING+TO+THE+MATRIX..." alt="Matrix Typing SVG" />
+</div>
 
-ragul = RagulBalaji()
-ragul.say_hello()
+---
+
+## 🔥 **[ SYSTEM PROFILE ACCESSED ]** 🔥
+
+```bash
+┌─[ragul@cyberspace]─[~/profile]
+└──╼ cat system_info.txt
+
+╔══════════════════════════════════════════════════════════════╗
+║                    🚀 DIGITAL ARCHITECT 🚀                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME         │ Ragul Balaji                                 ║
+║  DESIGNATION  │ CS Student & Tech Innovator                  ║
+║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
+║  INSTITUTE    │ Coimbatore Institute of Technology           ║
+║  MISSION      │ Building the Future, One Code at a Time     ║
+║  STATUS       │ ONLINE & READY TO HACK THE WORLD            ║
+╚══════════════════════════════════════════════════════════════╝
+
+> Initializing cybersecurity protocols...     [✓]
+> Loading AI algorithms...                   [✓]
+> Blockchain networks synchronized...        [✓]
+> Development environment active...          [✓]
+> Ready for innovation...                    [✓]
 ```
+
 
 ## 🛠️ Tech Arsenal
 
