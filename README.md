@@ -77,106 +77,14 @@ ragul.say_hello()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragulbalaji&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragulbalaji&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Current Learning Path
-
-```mermaid
-graph LR
-    A[🎯 Ragul's Learning Journey] --> B[🤖 Artificial Intelligence]
-    A --> C[🔐 Cybersecurity]
-    A --> D[⛓️ Blockchain Technology]
-    A --> E[🌐 Web Development]
-    
-    B --> F[Machine Learning Algorithms]
-    B --> G[Deep Learning & Neural Networks]
-    B --> H[Computer Vision & NLP]
-    
-    C --> I[Ethical Hacking Techniques]
-    C --> J[Network Security & Protocols]
-    C --> K[Cryptography & Data Protection]
-    
-    D --> L[Smart Contract Development]
-    D --> M[DeFi & Web3 Applications]
-    D --> N[Cryptocurrency Fundamentals]
-    
-    E --> O[React.js & Frontend]
-    E --> P[Backend Development]
-    E --> Q[Linux System Administration]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-```
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragulbalaji&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🔥 What I'm Currently Working On
-
-- 🤖 **AI Projects:** Building machine learning models for real-world problem solving
-- 🔐 **Security Research:** Learning ethical hacking and penetration testing techniques
-- ⛓️ **Blockchain Development:** Creating smart contracts and exploring DeFi protocols
-- 🌐 **Full-Stack Development:** Building responsive web applications with React
-- 🐧 **Linux Mastery:** Strengthening my command-line and system administration skills
-- 📚 **Continuous Learning:** Taking online courses and working on coding challenges
-
-## 💡 My Philosophy
-
-<div align="center">
-  
-*"Technology is not just about code - it's about creating solutions that make a difference in people's lives."*
-
-**🎯 Mission:** To leverage technology for solving real-world problems  
-**🌟 Vision:** Contributing to a more secure, intelligent, and decentralized digital future  
-**💪 Values:** Continuous learning, ethical development, and collaborative innovation
-
-</div>
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragul-balaji)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ragulbalaji)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulbalaji@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragulbalaji.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ragul.balaji)
-
-</div>
-
-## 📫 Open for Opportunities
-
-- 💼 **Internships** in AI, Cybersecurity, or Blockchain development
-- 🤝 **Collaboration** on innovative tech projects
-- 📚 **Mentorship** opportunities to accelerate learning
-- 🎤 **Speaking engagements** about emerging technologies
-- 🌐 **Open source contributions** to meaningful projects
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ragulbalaji&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   
-  <br><br>
-  
-  **"The best way to predict the future is to create it." - Peter Drucker**
-  
   <br>
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
-</div>
-
-### 🎲 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
