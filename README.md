@@ -9,8 +9,6 @@
 ┌─[ragul@cyberspace]─[~/profile]
 └──╼ whoami
                   ╔══════════════════════════════════════════════════════════════╗
-                  ║                    🚀 DIGITAL ARCHITECT 🚀                   ║
-                  ╠══════════════════════════════════════════════════════════════╣
                   ║  NAME         │ Ragul Balaji                                 ║
                   ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
                   ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
