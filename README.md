@@ -19,7 +19,7 @@
 > Ready for innovation...                  [✓] 
 ```
 
-##Tech Arsenal
+## Tech
 <div align="center">
   
 ### Programming Languages
