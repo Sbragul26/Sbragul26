@@ -37,9 +37,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Specialized Areas
-![Artificial Intelligence](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=brain&logoColor=white)
+![Software Developer](https://img.shields.io/badge/Software%20Developer-0A66C2?style=for-the-badge&logo=code&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 
 </div>
 
