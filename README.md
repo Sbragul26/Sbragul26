@@ -47,7 +47,7 @@
 ## LFX Badge
 <div align="center">
 
-[![First Design - Meshery](https://img.shields.io/badge/First_Design-Meshery-blue?style=for-the-badge)](https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges&badge=first-design)
+[Layer5 Badges](https://badges.layer5.io/)
 
 </div>
 
