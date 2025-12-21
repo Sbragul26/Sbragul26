@@ -45,4 +45,9 @@
 </div>
 
 ## LFX Badge
-[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges&badge=first-design)
+<div align="center">
+  <a href="https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="150"/>
+  </a>
+</div>
+
