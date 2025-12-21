@@ -45,18 +45,6 @@
 </div>
 
 ## LFX Badge
-## LFX Badge
 <div align="center">
-
-[![First Design - Meshery](https://img.shields.io/badge/First_Design-Meshery-blue?style=for-the-badge)](https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges&badge=first-design)  
-[![Meshery](https://img.shields.io/badge/Meshery-cyan?style=for-the-badge)](https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges)
-
+[![First Design Badge](https://badges.layer5.io/badge/first-design)](https://badges.layer5.io/)
 </div>
-
-## LFX Badges
-<div align="center">
-
-[View all my Layer5 badges here](https://badges.layer5.io/)
-
-</div>
-
