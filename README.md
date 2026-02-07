@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ragul Balaji
  
-Computer Science student passionate about problem-solving, clean architecture, and building from the ground up.
+Decision and Computer Science student passionate about problem-solving, clean architecture, and building from the ground up.
 
 - 🌱 Focused on **full-stack development**, **algorithms**, **systems programming**, and modern frontend tooling
 - 👨‍💻 Check out my work → [Portfolio](https://sbragul.vercel.app)
