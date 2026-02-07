@@ -1,26 +1,19 @@
 # Hi there! 👋 I'm Ragul Balaji
+ 
+Computer Science student passionate about problem-solving, clean architecture, and building from the ground up.
 
-## > SYSTEM ID
-```bash
-┌─[ragul@cyberspace]─[~/profile]
-└──╼ whoami
-                  ╔══════════════════════════════════════════════════════════════╗
-                  ║  NAME         │ Ragul Balaji                                 ║
-                  ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
-                  ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
-                  ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
-                  ║  STATUS       │ ONLINE & Hacking the Universe                ║
-                  ╚══════════════════════════════════════════════════════════════╝
+- 🌱 Focused on **full-stack development**, **algorithms**, **systems programming**, and modern frontend tooling
+- 👨‍💻 Check out my work → [Portfolio](https://sbragul.vercel.app)
+- 📊 Active on [LeetCode](https://leetcode.com/u/ragulbalajiimeKOLI/) • [HackerRank](https://www.hackerrank.com/profile/sbragul26)
+- 💬 Happy to chat about **DSA**, **React**, **Next.js**, **Gatsby**, **Go/Rust**, **Linux environments**,or **performance optimization**
+- ⚡ Fun fact → Arch Linux enjoyer. My rolling release is more unstable than my sleep schedule.
 
-> Initializing cybersecurity protocols...  [✓]
-> Loading AI algorithms...                 [✓]
-> Blockchain networks synchronized...      [✓]
-> Development environment active...        [✓]
-> Ready for innovation...                  [✓] 
-```
 
 ## Tech
 <div align="center">
+
+### LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ragulbalajiimeKOLI?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/ragulbalajiimeKOLI/)
   
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,6 +36,13 @@
 
 
 </div>
+
+
+
+
+
+## My GitHub Activity  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sbragul26&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## LFX Badge
 <div align="center">
