@@ -41,7 +41,7 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 
 <div align="center">
 <a href="https://github.com/Sbragul26"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sbragul26&theme=github_dark" width="100%" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sbragul26&theme=github_dark&v=2" width="100%" /> 
 </a>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sbragul26&theme=github-dark&hide_border=true&area=true)](https://github.com/Sbragul26)
