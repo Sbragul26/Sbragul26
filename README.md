@@ -37,12 +37,18 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 
 </div>
 
-
-
-
-
 ## My GitHub Activity  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sbragul26&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<a href="https://github.com/Sbragul26"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sbragul26&theme=github_dark" width="100%" /> 
+</a>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sbragul26&theme=github-dark&hide_border=true&area=true)](https://github.com/Sbragul26)
+
+</div>
+
+---
 
 ## LFX Badge
 <div align="center">
