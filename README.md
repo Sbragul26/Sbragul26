@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ragul Balaji
+# Hi there! 👋 I'm Ragul Balajii
  
 Decision and Computer Science student passionate about problem-solving, clean architecture, and building from the ground up.
 
