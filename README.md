@@ -33,7 +33,6 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-
 </div>
 
 ## My GitHub Activity  
