@@ -6,7 +6,7 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 - 👨‍💻 Check out my work → [Portfolio](https://sbragul.vercel.app)
 - 📊 Active on [LeetCode](https://leetcode.com/u/ragulbalajiimeKOLI/) • [HackerRank](https://www.hackerrank.com/profile/sbragul26)
 - 💬 Happy to chat about **DSA**, **React**, **Next.js**, **Gatsby**, **Go/Rust**, **Linux environments**,or **performance optimization**
-- ⚡ Fun fact → Arch Linux enjoyer. My rolling release is more unstable than my sleep schedule.
+-   Fun fact → Arch Linux enjoyer. My rolling release is more unstable than my sleep schedule.
 
 ## Tech
 <div align="center">
