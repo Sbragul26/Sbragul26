@@ -57,5 +57,3 @@ Decision and Computer Science student passionate about problem-solving, clean ar
     <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" width="150"/>
   </a>
 </div>
-
-
