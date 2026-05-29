@@ -10,9 +10,6 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 
 ## Tech
 <div align="center">
-
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ragulbalajii?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/ragulbalajii/)
   
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
