@@ -4,7 +4,7 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 
 - 🌱 Focused on **full-stack development**, **algorithms**, **systems programming**, and modern frontend tooling
 - 👨‍💻 Check out my work → [Portfolio](https://sbragul.vercel.app)
-- 📊 Active on [LeetCode](https://leetcode.com/u/ragulbalajiimeKOLI/) • [HackerRank](https://www.hackerrank.com/profile/sbragul26)
+- 📊 Active on [LeetCode](https://leetcode.com/u/ragulbalajii) • [HackerRank](https://www.hackerrank.com/profile/sbragul26)
 - 💬 Happy to chat about **DSA**, **React**, **Next.js**, **Gatsby**, **Go/Rust**, **Linux environments**,or **performance optimization**
 -   Fun fact → Arch Linux enjoyer. My rolling release is more unstable than my sleep schedule.
 
