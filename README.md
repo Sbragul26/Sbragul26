@@ -42,7 +42,6 @@ Decision and Computer Science student passionate about problem-solving, clean ar
 
 ---
 
-## LFX Badge
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://cloud.layer5.io/user/59391ed3-8cda-4339-8831-3b5d27782f76?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="150"/>
